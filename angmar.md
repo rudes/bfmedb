@@ -11,9 +11,11 @@
 
 ![Hwaldar unit](/images/angmar/hwaldar.jpg)\
 The Traitor of Rhudaur\
-Resource Cost: 1200\
 Command Points: 50\
+Build Cost: 1200\
+Build Time: 30s\
 Health: 2400\
+Damage: 200\
 Shortuct: L
 
 Power | Level | Shortcut | Duration | Recharge
@@ -26,9 +28,11 @@ Summon Hillmen - Summons hordes of Hillmen to fight for you. | 5 | U | FIXME | F
 
 ![Karsh unit](/images/angmar/karsh.jpg)\
 The Whispering Wraith of Angmar\
-Resource Cost: 1500\
 Command Points: 50\
+Build Cost: 1500\
+Build Time: 45s\
 Health: 3000\
+Damage: 320\
 Shortuct: K
 
 Power | Level | Shortcut | Duration | Recharge
@@ -43,8 +47,8 @@ Whisper of Death - Inflicts massive damage on a non-undead unit  | 8 | W | FIXME
 
 ![Builder unit](/images/angmar/builder.jpg)\
 This unit can create buildings and can extinguish fire. You always start out with two of these.\
-Resource Cost: 500\
 Command Points: 0\
+Build Cost: 500\
 Health: 500\
 Shortuct: B\
 Count: 1
@@ -53,16 +57,16 @@ Count: 1
 
 ![Dire Wolf pack unit](/images/angmar/direwolves.jpg)\
 Fast infantry unit. Strong vs Pikeman\
-Resource Cost: 250\
 Command Points: 40\
+Build Cost: 250\
 Health: 250\
 Shortuct: D\
 Count: 8
 
 Upgrade | Cost | Shortcut | Researched
 ------- | ---- | -------- | ----------
-Heavy Spiked Collars - Significantly reduce damage taken | 150 | V | Troll and Wolf Den
-Banner Carrier - Increases horde level to 2  | 60 | K | Hall of King's Men
+Heavy Spiked Collars - Significantly reduce damage taken | 150 | V | [Troll and Wolf Den](#troll-and-wolf-den)
+Banner Carrier - Increases horde level to 2  | 60 | K | [Hall of King's Men](#hall-of-king's-men)
 
 ## Magic
 
